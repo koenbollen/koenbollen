@@ -32,3 +32,10 @@ I started coding at age 11 and never really stopped. I make games and build back
 **Blendle | Backend Engineer (5 years)**
 * Built a high-performance email pipeline from the ground up.
 * Successfully rendered and delivered over 1 million unique, customized emails in under 20 minutes.
+
+---
+
+### Talks & Interviews:
+- [Defold Creator Spotlight](https://defold.com/2026/01/03/Creator-Spotlight-Koen-Bollen/) 2026
+- [Level up your backend with Cucumber feature tests](https://www.youtube.com/watch?v=QNO32Rpmu-M) @ [golab.io](https://golab.io/speakers/bollen) 2023
+- [Kubernetes 0.9 at Blendle](https://www.youtube.com/watch?v=5bvgTs7DfJ0) @ Leaseweb TechSummit 2017
